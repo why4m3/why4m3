@@ -23,3 +23,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/why4m3/why4m3/output/github-snake-dark.svg" />
 </p>
+
+### 📫 Связь
+<p align="center">
+  <a href="https://discord.com/users/561046925441237017">
+    <img src="https://img.shields.io/badge/Discord-why4me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
