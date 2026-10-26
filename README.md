@@ -8,23 +8,23 @@
 
 </div>
 
-### 🛠 Стек
+### 🛠 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=kotlin,python,js,html,c,bash,linux,androidstudio,git&theme=dark" />
 </p>
 
-### 📊 Статистика
+### 📊 Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=why4m3&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=why4m3&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-### 🐍 Активность
+### 🐍 Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/why4m3/why4m3/output/github-snake-dark.svg" />
 </p>
 
-### 📫 Связь
+### 📫 Contact
 <p align="center">
   <a href="https://discord.com/users/561046925441237017">
     <img src="https://img.shields.io/badge/Discord-why4me-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
